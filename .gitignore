@@ -54,9 +54,5 @@ htmlcov/
 # Output files
 *.out
 
-# Project specific
-/Gestec\ Archivos/tareas.json
-/Gestec\ Archivos/usuario.json
-
 # macOS specific
 .DS_Store
