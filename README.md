@@ -2,6 +2,11 @@
 ¡Domina los conceptos básicos de Python desde cero con estos conceptos!
 En esta guía de recordatorios encontrarás los fundamentos de Python, uno de los lenguajes de programación más populares y versátiles de la actualidad, para que puedas empezar a programar hoy mismo.
 
+> [!NOTE]
+> El archivo `README.md` fue diseñado primero y es un complemento para los archivos `.ipynb` donde aparecen los conceptos básicos más detallados, se han utilizado distintos datos para la elaboración de ambos. Todo el análisis de datos está en los archivos finales `.ipynb` que van del número `12.` al número `15.` y en la carpeta `00. Proyectos`.
+
+Después de esta aclaración pasemos a la estructura del `README.md`.
+
 <details>
   <summary>¿Qué aprenderás?</summary>
   
